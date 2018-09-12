@@ -108,8 +108,8 @@ I did this in lines #160 through #175 in my code in image.py and same logic has 
 
 Using the following formula the radius of curvature is determined.
 
-          (1+(2Ay+B)2)3/2​
-Rcurve ​= -----------------
+          (1+(2Ay+B)2)3/2
+Rcurve = -----------------
                ∣2A∣
 
 #### 6. Provide an example image of your result plotted back down onto the road such that the lane area is identified clearly.
