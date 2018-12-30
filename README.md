@@ -1,5 +1,3 @@
-## Writeup Template
----
 
 **Advanced Lane Finding Project**
 
